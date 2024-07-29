@@ -1,0 +1,8 @@
+{
+    "startSymbol": "S",
+    "productions": {
+      "S": ["aAa", "bBv"],
+      "A": ["a", "aA"]
+    }
+  }
+  
